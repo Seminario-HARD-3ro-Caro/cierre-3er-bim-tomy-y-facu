@@ -1,13 +1,13 @@
 // Ejercicio evaluatorio 3er bimestre
 /*
   Integrantes
-    Nombre:
-    Apellido:
-    Curso:
+    Nombre: Tomás
+    Apellido: Atanasoff
+    Curso: 3ro B
     
-    Nombre:
-    Apellido:
-    Curso:
+    Nombre: Facundo
+    Apellido: Gutierrez
+    Curso: 3ro E
   
 Congisgnas
   Conexionado:
@@ -15,14 +15,14 @@ Congisgnas
     Se debe conectar tambien, un pulsador que permita recibir información de un usuario.
     Indicar a continuación los pines a los cuales se conectó cada elemento y el valor de resistencias utilizado:
       Pines:
-        Boton:
-        LED1:
-        LED2:
-        LED3:
-        LED4:
+        Boton:10
+        LED1: 2
+        LED2: 3
+        LED3: 4
+        LED4: 5
       Valor:
-        R_boton:
-        R_LEDs:
+        R_boton: 5.6k Ohms
+        R_LEDs:330 Ohms
 
   Progamas:
     Se deben entregar un programa distinto por cada punto. Los programas son una modificación entre ellos.
